@@ -59,14 +59,26 @@
 
 <main id="main">
 
-<section class="section">
+<section class="page-hero">
   <div class="container">
-    <article>
-      <header class="post-header">
+    <nav class="breadcrumb" aria-label="مسیر صفحه">
+      <a href="index.html">خانه</a>
+      <span class="crumb-sep" aria-hidden="true">/</span>
+      <a href="blog.html">وبلاگ</a>
+      <span class="crumb-sep" aria-hidden="true">/</span>
+      <span aria-current="page">مطلب</span>
+    </nav>
+    <header class="post-header">
         <p class="eyebrow">وبلاگ</p>
         <h1><span class="placeholder">[عنوان مطلب اینجا]</span></h1>
         <p class="post-meta"><span class="placeholder">[تاریخ انتشار اینجا]</span> · <span class="placeholder">[زمان مطالعه اینجا]</span></p>
       </header>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <article>
       <div class="prose">
         <p><span class="placeholder">[متن اینجا]</span></p>
         <p><span class="placeholder">[متن اینجا]</span></p>
@@ -83,7 +95,38 @@
 
 <!-- شروع فوتر مشترک — برای تبدیل به include -->
 <footer class="site-footer">
-  <div class="container">
+  <div class="container footer-grid">
+    <div class="footer-col footer-about">
+      <a class="brand footer-brand" href="index.html">
+        <span class="brand-mark" aria-hidden="true">ML</span>
+        <span class="brand-text">
+          <span class="brand-name">مهدی لشگری</span>
+          <span class="brand-role">پژوهشگر و مخترع</span>
+        </span>
+      </a>
+      <p>مهندس صنایع، پژوهشگر و مخترع؛ فعال در حوزه فناوری‌های نوین، هوش مصنوعی و علوم زیستی.</p>
+    </div>
+    <div class="footer-col">
+      <h2 class="footer-title">لینک‌های سریع</h2>
+      <ul class="footer-links">
+        <li><a href="index.html">خانه</a></li>
+        <li><a href="about.html">درباره من</a></li>
+        <li><a href="inventions.html">اختراعات</a></li>
+        <li><a href="publications.html">مقالات</a></li>
+        <li><a href="awards.html">جوایز</a></li>
+        <li><a href="contact.html">تماس</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h2 class="footer-title">شبکه‌های علمی</h2>
+      <ul class="footer-links">
+        <li><a href="https://orcid.org/0009-0000-4984-3250" target="_blank" rel="noopener">ORCID</a></li>
+        <li><a href="https://www.linkedin.com/in/mehdi-lashgari-b48589252" target="_blank" rel="noopener">LinkedIn</a></li>
+        <li>عضو فدراسیون جهانی مخترعان (IFIA)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-bottom">
     <p>© ۲۰۲۶ مهدی لشگری</p>
   </div>
 </footer>
