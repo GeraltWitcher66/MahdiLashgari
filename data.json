@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "type": "invention",
+      "year": "2026",
+      "url_fa": "inventions.html#inv-1",
+      "url_en": "inventions.html#inv-1",
+      "title_fa": "روش غیرمخرب ارزیابی، احراز اصالت و تعیین خلوص فلزات گران‌بها",
+      "title_en": "Non-destructive evaluation, authentication and purity assessment of precious metals",
+      "summary_fa": "توسعه روش غیرمخرب ارزیابی، احراز اصالت و تعیین خلوص فلزات گران‌بها شامل طلا، نقره و پلاتین با استفاده از فناوری‌های اولتراسونیک، الکترومغناطیسی و هوش مصنوعی.",
+      "summary_en": "A non-destructive method for evaluating, authenticating and determining the purity of precious metals — gold, silver and platinum — using ultrasonic, electromagnetic and artificial intelligence technologies."
+    },
+    {
+      "type": "invention",
+      "year": "2026",
+      "url_fa": "inventions.html#inv-2",
+      "url_en": "inventions.html#inv-2",
+      "title_fa": "سیستم تحریک مغناطیسی مغزی خانگی (RTMS)",
+      "title_en": "Home transcortical magnetic stimulation system (RTMS)",
+      "summary_fa": "Loretta Based Home Transcortical Magnetic Stimulation (RTMS) System — سامانه‌ای برای تحریک مغناطیسی مغزی در خانه.",
+      "summary_en": "Loretta Based Home Transcortical Magnetic Stimulation (RTMS) System — a system for home-based transcortical magnetic brain stimulation."
+    },
+    {
+      "type": "invention",
+      "year": "2025",
+      "url_fa": "inventions.html#inv-3",
+      "url_en": "inventions.html#inv-3",
+      "title_fa": "اندازه‌گیری و محاسبه فشار کف پا هنگام راه رفتن",
+      "title_en": "Measuring and calculating foot pressure while walking",
+      "summary_fa": "Measuring and Calculating Foot Pressure While Walking — سامانه‌ای برای اندازه‌گیری فشار کف پا در حین راه رفتن.",
+      "summary_en": "A system for measuring plantar pressure during walking."
+    },
+    {
+      "type": "invention",
+      "year": "2026",
+      "url_fa": "inventions.html#inv-4",
+      "url_en": "inventions.html#inv-4",
+      "title_fa": "سیستم جانبی اصلاح حرکت بیمار در فیزیوتراپی و بازی‌درمانی حرکتی",
+      "title_en": "Movement correction side system for physiotherapy and movement-based play therapy",
+      "summary_fa": "Movement-Based Play Therapy and the Patient’s Movement Correction Side System in Physiotherapy — سامانه‌ای برای اصلاح حرکت بیمار در فرایند فیزیوتراپی.",
+      "summary_en": "Movement-Based Play Therapy and the Patient’s Movement Correction Side System in Physiotherapy."
+    },
+    {
+      "type": "invention",
+      "year": "2023",
+      "url_fa": "inventions.html#inv-5",
+      "url_en": "inventions.html#inv-5",
+      "title_fa": "ترکیب ژنراتور DC و جلوگیری از تبخیر آب",
+      "title_en": "DC generator combination with water evaporation prevention",
+      "summary_fa": "حفظ و جلوگیری از تبخیر آب و تولید انرژی پاک در ترکیب ژنراتور DC با توجه به تغییر اقلیم.",
+      "summary_en": "Maintaining and preventing water evaporation while producing clean energy through a DC generator combination, in response to climate change."
+    },
+    {
+      "type": "invention",
+      "year": "2024",
+      "url_fa": "inventions.html#inv-6",
+      "url_en": "inventions.html#inv-6",
+      "title_fa": "ارتقای عملکرد گروه امداد و نجات",
+      "title_en": "Improving the performance of the rescue group",
+      "summary_fa": "Improving the performance of the rescue group — راهکاری برای بهبود عملکرد تیم‌های امداد و نجات.",
+      "summary_en": "A solution to improve the performance of rescue teams."
+    },
+    {
+      "type": "invention",
+      "year": "[year]",
+      "url_fa": "inventions.html#inv-7",
+      "url_en": "inventions.html#inv-7",
+      "title_fa": "سیستم هوشمند ارزیابی حرکات بدن با کمک هوش مصنوعی",
+      "title_en": "AI-assisted intelligent human motion assessment system",
+      "summary_fa": "توسعه سیستم‌های هوشمند ارزیابی حرکات بدن با کمک هوش مصنوعی و بررسی کاربرد سیستم‌های کم‌هزینه بینایی ماشین در ارزیابی عملکرد حرکتی.",
+      "summary_en": "Development of intelligent systems for assessing human movement with artificial intelligence, and investigation of low-cost machine vision systems for motor performance assessment."
+    },
+    {
+      "type": "article",
+      "year": "2026",
+      "url_fa": "publications.html#pub-1",
+      "url_en": "publications.html#pub-1",
+      "title_fa": "Multi-Modal Attention-Augmented Fusion Network (MAF-Net) for Brain Tumor Classification Using Multiparametric MRI",
+      "title_en": "Multi-Modal Attention-Augmented Fusion Network (MAF-Net) for Brain Tumor Classification Using Multiparametric MRI",
+      "summary_fa": "اولین کنفرانس بین‌المللی هوش مصنوعی و نوآوری‌های میان‌رشته‌ای در علم و فناوری — پاریس، فرانسه، ۲۴ ژوئیه ۲۰۲۶ — مهدی لشگری، آناهیتا سپندارند",
+      "summary_en": "1st International Conference on Artificial Intelligence and Interdisciplinary Innovations in Science and Technology — Paris, France, 24 July 2026 — Mehdi Lashgari, Anahita Sepandarand"
+    },
+    {
+      "type": "article",
+      "year": "2026",
+      "url_fa": "publications.html#pub-2",
+      "url_en": "publications.html#pub-2",
+      "title_fa": "Using an Arduino Board and a Piezoelectric Hand-Worn Sensor to Display Pressure and Depth for Cardiac CPR: An Artificial Intelligence-Based Approach in Training Physicians and Nurses",
+      "title_en": "Using an Arduino Board and a Piezoelectric Hand-Worn Sensor to Display Pressure and Depth for Cardiac CPR: An Artificial Intelligence-Based Approach in Training Physicians and Nurses",
+      "summary_fa": "سومین کنفرانس بین‌المللی پزشکی و هوش مصنوعی در ارتقای سلامت — پاریس، فرانسه، ۲۰ مارس ۲۰۲۶ — مهدی لشگری، آتنا رفیعی",
+      "summary_en": "3rd International Conference on Medicine and Artificial Intelligence in Health Improvement — Paris, France, 20 March 2026 — Mehdi Lashgari, Atena Rafiei"
+    },
+    {
+      "type": "article",
+      "year": "2026",
+      "url_fa": "publications.html#pub-3",
+      "url_en": "publications.html#pub-3",
+      "title_fa": "Design and Evaluation of an AI-Based Smart Alert Application for Continuous Monitoring of Heart Rate and Blood Oxygen Saturation in the Elderly with Emergency Alert Sending to Caregivers",
+      "title_en": "Design and Evaluation of an AI-Based Smart Alert Application for Continuous Monitoring of Heart Rate and Blood Oxygen Saturation in the Elderly with Emergency Alert Sending to Caregivers",
+      "summary_fa": "سومین کنفرانس بین‌المللی پزشکی و هوش مصنوعی در ارتقای سلامت — پاریس، فرانسه، ۲۰ مارس ۲۰۲۶ — مهدی لشگری، النا کلوندی",
+      "summary_en": "3rd International Conference on Medicine and Artificial Intelligence in Health Improvement — Paris, France, 20 March 2026 — Mehdi Lashgari, Elena Kalvandi"
+    },
+    {
+      "type": "article",
+      "year": "2026",
+      "url_fa": "publications.html#pub-4",
+      "url_en": "publications.html#pub-4",
+      "title_fa": "The development of high-precision intelligent dental surgical robots addresses the inherent limitations",
+      "title_en": "The development of high-precision intelligent dental surgical robots addresses the inherent limitations",
+      "summary_fa": "سومین کنفرانس بین‌المللی پزشکی و هوش مصنوعی در ارتقای سلامت — پاریس، فرانسه، ۲۰ مارس ۲۰۲۶ — مهدی لشگری، هستی جمالی",
+      "summary_en": "3rd International Conference on Medicine and Artificial Intelligence in Health Improvement — Paris, France, 20 March 2026 — Mehdi Lashgari, Hasti Jamali"
+    },
+    {
+      "type": "article",
+      "year": "2026",
+      "url_fa": "publications.html#pub-5",
+      "url_en": "publications.html#pub-5",
+      "title_fa": "Toxoplasma Gondii parasite",
+      "title_en": "Toxoplasma Gondii parasite",
+      "summary_fa": "ششمین کنفرانس بین‌المللی علوم زیستی و آزمایشگاهی — ۲۴ ژانویه ۲۰۲۶ — مهدی لشگری، آتنا رفیعی",
+      "summary_en": "6th International Conference of Biology and Laboratory Sciences — 24 January 2026 — Mehdi Lashgari, Atena Rafiei"
+    },
+    {
+      "type": "post",
+      "year": "2026",
+      "url_fa": "blog-post.html",
+      "url_en": "blog-post.html",
+      "title_fa": "درباره توسعه سیستم‌های ارزیابی حرکت با هوش مصنوعی",
+      "title_en": "On building AI-assisted movement assessment systems",
+      "summary_fa": "یادداشتی درباره مسیر طراحی سیستم‌های کم‌هزینه ارزیابی حرکت و نقش داده در توان‌بخشی.",
+      "summary_en": "Notes on designing low-cost movement assessment systems and the role of data in rehabilitation."
+    },
+    {
+      "type": "post",
+      "year": "2026",
+      "url_fa": "blog-post.html",
+      "url_en": "blog-post.html",
+      "title_fa": "تجربه همراهی تیم‌های دانش‌آموزی در مسابقات بین‌المللی",
+      "title_en": "Mentoring student teams at international competitions",
+      "summary_fa": "از ایده تا ارائه: نکته‌هایی درباره مستندسازی علمی و آماده‌سازی پروژه‌های دانش‌آموزی.",
+      "summary_en": "From idea to presentation: notes on scientific documentation and preparing student projects."
+    },
+    {
+      "type": "post",
+      "year": "2026",
+      "url_fa": "blog-post.html",
+      "url_en": "blog-post.html",
+      "title_fa": "اندازه‌گیری غیرمخرب و پرسش اصالت فلزات گران‌بها",
+      "title_en": "Non-destructive measurement and the question of precious metal authenticity",
+      "summary_fa": "نگاهی به ترکیب اولتراسونیک، الکترومغناطیس و هوش مصنوعی در ارزیابی فلزات.",
+      "summary_en": "A look at combining ultrasound, electromagnetics and artificial intelligence in metal assessment."
+    }
+  ]
+}
