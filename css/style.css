@@ -1362,8 +1362,6 @@ html[lang='en'] .honors-head h2 {
   height: 42px;
   display: grid;
   place-items: center;
-  font-size: 1.15rem;
-  line-height: 1;
   background: var(--white);
   color: var(--navy);
   border: 1px solid var(--line);
@@ -1371,6 +1369,10 @@ html[lang='en'] .honors-head h2 {
   cursor: pointer;
   transition: border-color 0.15s ease, color 0.15s ease,
     transform 0.15s ease;
+}
+
+.slider-btn svg {
+  display: block;
 }
 
 .slider-btn:hover {
