@@ -1,0 +1,8 @@
+# پوشه محتوای منبع (CV، گواهی‌ها، PDFها) — روی گیت نمی‌رود
+Content/
+content/
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
+desktop.ini
